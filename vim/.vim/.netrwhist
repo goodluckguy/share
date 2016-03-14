@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/MANABU/whydelay'
+let g:netrw_dirhist_2='/Users/MANABU/whydelay/bat'
+let g:netrw_dirhist_3='/Users/MANABU/whydelay'
+let g:netrw_dirhist_4='/Users/MANABU/whydelay/app/scripts'
+let g:netrw_dirhist_5='/Users/hiramatsumanabu/whydelay/app/styles'
+let g:netrw_dirhist_6='/Users/hiramatsumanabu/whydelay/app/scripts'
+let g:netrw_dirhist_7='/Users/MANABU/whydelay/bower_components/bootstrap-sass-official/assets/stylesheets'
+let g:netrw_dirhist_8='/Users/MANABU/whydelay/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap'
+let g:netrw_dirhist_9='/Users/MANABU/Dropbox/mt_develop/m/twipost'
