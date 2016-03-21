@@ -197,3 +197,6 @@ if [ $(uname -n) = 'MacBook-Air.local' ];
 then
   export PATH=$PATH:~/eBooks/bin
 fi
+alias www=cd\ /Library/WebServer/
+alias cgi=cd\ /Library/WebServer/CGI-Executables/
+alias doc=cd\ /Library/WebServer/Documents/
