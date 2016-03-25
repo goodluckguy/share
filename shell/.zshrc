@@ -200,3 +200,6 @@ fi
 alias www=cd\ /Library/WebServer/
 alias cgi=cd\ /Library/WebServer/CGI-Executables/
 alias doc=cd\ /Library/WebServer/Documents/
+pow(){
+  pmset -g ps
+}
