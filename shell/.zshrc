@@ -200,6 +200,12 @@ fi
 alias www=cd\ /Library/WebServer/
 alias cgi=cd\ /Library/WebServer/CGI-Executables/
 alias doc=cd\ /Library/WebServer/Documents/
+alias ftphamaura='ftp ftp14.gmoserver.jp'
 pow(){
   pmset -g ps
 }
+export PATH="/usr/local/bin:$PATH"
+alias hun=cd\ ~/HungleStudy/MajiHun/
+alias addr="/Volumes/NO\ NAME/PRIVATE/MEIGROUP/PCC/PCC_DAT/ADDRESS"
+setopt nonomatch
+export PATH="/usr/local/opt/curl/bin:$PATH"
